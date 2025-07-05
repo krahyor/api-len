@@ -1,2 +1,2 @@
 #!/bin/bash
-poetry run fastapi dev api-len/main.py
+poetry run fastapi dev apilen/main.py
